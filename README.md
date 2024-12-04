@@ -1,1 +1,1 @@
-# tiktok-claims-classification
+# TikTok Claims Classification Project
