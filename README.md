@@ -55,10 +55,3 @@ The results of the analysis and model evaluation are documented in the notebook.
 
 ## Conclusion
 By leveraging data analysis, visualization, and machine learning techniques, this project provides insights into video claim classification. The models developed can help in automating the classification process, improving efficiency and accuracy.
-
----
-
-## How to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repository.git
